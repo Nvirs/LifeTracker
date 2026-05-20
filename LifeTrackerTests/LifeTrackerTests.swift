@@ -1,10 +1,3 @@
-//
-//  LifeTrackerTests.swift
-//  LifeTrackerTests
-//
-//  Created by Huzegaf on 5/2/26.
-//
-
 import Testing
 @testable import LifeTracker
 

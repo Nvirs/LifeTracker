@@ -1,10 +1,3 @@
-//
-//  LifeTrackerUITests.swift
-//  LifeTrackerUITests
-//
-//  Created by Huzegaf on 5/2/26.
-//
-
 import XCTest
 
 final class LifeTrackerUITests: XCTestCase {

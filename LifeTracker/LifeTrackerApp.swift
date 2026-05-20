@@ -12,10 +12,15 @@ import SwiftData
 struct LifeTrackerApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
-            Item.self,
+            Transaction.self,
+            TransactionCategory.self,
+            Budget.self,
+            Habit.self,
+            MoodEntry.self,
+            PersonalGoal.self
         ])
         let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
-
+        
         do {
             return try ModelContainer(for: schema, configurations: [modelConfiguration])
         } catch {
