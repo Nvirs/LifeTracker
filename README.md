@@ -2,7 +2,7 @@
 
 LifeTracker is a SwiftUI app for tracking finances, health, and personal goals.
 
-![LifeTracker App Screenshot](docs/screenshots/85DDE1D6-BF49-46A4-B60D-F8FFF12A926A_1_101_o.jpeg)
+<img src="docs/screenshots/85DDE1D6-BF49-46A4-B60D-F8FFF12A926A_1_101_o.jpeg" width="300" alt="LifeTracker App Screenshot">
 
 ## Features
 - Track income, expenses, and budgets
